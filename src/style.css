@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.fondo {
+  background-color: lightblue;
+  margin-top: 150px;
+}
